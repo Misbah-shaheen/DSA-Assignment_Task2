@@ -1,4 +1,4 @@
-### DSA-Assignment_Task2
+## DSA-Assignment_Task2
 # Very Large Prime Number Calculation
 
 ## Overview
