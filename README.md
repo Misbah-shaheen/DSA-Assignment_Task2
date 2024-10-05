@@ -50,9 +50,9 @@ This project implements a method to generate and evaluate the primality of a 102
 1. Ensure you have a C++ compiler (e.g., g++) installed on your system.
 ## Contributors
 
-Name             
+             
  Misbah Shaheen  
- Email
+ Email:
 [misbahshaheentiwana007@gmail.com](mailto:misbahshaheentiwana007@gmail.com) 
 
 
